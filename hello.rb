@@ -9,3 +9,5 @@ message = "Good morning, " + name + "!"
 pp message
 
 puts message
+
+puts "howdy"
